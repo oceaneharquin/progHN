@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		 <link rel="stylesheet" href="assets/css/style.css">
+        <title>index.css.</title>
+    </head>
+
+
+
+body {background-color: #FFDEF4 ;}
+
+<CENTER><FONT SIZE=14>
+<BR>
+
+#page {
+color: pink;
+font-size: 16px;
+text-align: center;
+}
+
+
+    <body>
+	<img 
+	src=C:\Users\ocean\Downloads\sorbonne-nouvelle-devise-trapezes.jpg 
+	alt=""
+    height="200px"
+    width="290px"
+	align=left />
+	
+	<img
+	src=C:\Users\ocean\Downloads\pdp-HN.jpg 
+	alt=""
+    height="200px"
+    width="200px"
+	align=right /> 
+	
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+        <h1><FONT SIZE=18> Océane Harquin </FONT></h1>
+		<h2><FONT SIZE=16> En 3ème année de licence Sciences du langage, mineure Humanités numériques </FONT></h2>
+        
+		<p> tableau présentant mon CV sur les trois dernières années: </p>
+		<table>
+		<thead>
+		<tr><th> 2022 </th><th> 2021 </th><th> 2020 </th>
+		</thead>
+		<tbody>
+		<tr><td> en 2ème année de licence Sciences du langage</td><td> 1ère année de licence Sciences du langage </td><td> Terminale ES
+		<tr><td> Travail en évenementiel, secrétaire, surveilllante à la maison des examens  </td><td> Travail en événementiel </td><td> Babystting
+		</tbody>
+		</table>
+		
+		<p> Liste de mes cinq dernières lectures : </p>
+		<ul>
+		<li> L'antarctique de l'amour de Sara Stridsberg </li>
+		<li> Tristes tropiques de Lévi-Strauss </li>
+		<li> Le livre du dessin et de la peinture, France loisirs </li>
+		<li> Les visages de W.T Foster  </li>
+		<li> Quand dire c'est faire de Austin.J </li>
+		
+		
+		<p> Site de la <a href=http://www.univ-paris3.fr/> Sorbonne Nouvelle </a> </p>
+		
+</FONT></CENTER><B>
+		
+    </body>
+</html>
